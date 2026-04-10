@@ -2,12 +2,19 @@ title: Adriano Wanderlingh # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  As a data analyst with a PhD in biostatistics, I excel at uncovering valuable insights from a large variety of data sources. I leverage R, Python, SQL, and Tableau to deliver data-driven solutions tailored to my clients' needs.
-  <br><br>
-  🛠️ Proficient in data cleaning, statistical modeling, machine learning, and network analysis.<br>
-  💡 Skilled in handling large, complex datasets with a creative problem-solving approach.<br>
-  📈 Adept at transforming raw data into actionable intelligence and insightful visualizations.<br>
-  💬 Effective communicator, able to translate technical findings into clear, impactful insights.<br>
+Hi, I'm Adriano Wanderlingh.   <br>
+I'm a Data Scientist and Researcher with a background in statistics, quantitative analysis, and machine learning. I like to work in a way that's both rigorous and practical — building solutions that are actually useful, not just technically sound. Most of what I do comes down to finding clear signals in messy, complex data, whether that's in academic research or applied projects.  <br>
+
+This profile is mostly about the technical side of my work. A few areas I keep coming back to:  <br>
+- Predictive Modeling & Machine Learning: Building and tuning regression models for outcome prediction, and developing analytical tools that use supervised classification to automate behavioural detection in large biological datasets.  <br>
+
+- Scalable Data Pipelines: Designing end-to-end workflows for large-scale data processing. Lately this has included an NLP pipeline that extracts stance and sentiment from millions of Reddit posts, and preprocessing pipelines built to handle qPCR data with up to 60% missingness.  <br>
+
+- Spatial & Statistical Analysis: Modeling complex systems — from resource selection functions that map habitat use to network science applications in experimental epidemiology.  <br>
+
+
+Before going independent, I did my PhD at the University of Bristol, where I built custom data architectures and mathematical models to study disease transmission and social immunity.
+Feel free to dig into the repositories below. I care a lot about methodology and I'm always happy to talk through my statistical choices, code structure, or general approach — critical questions included.
   <br><br>
   <a href="https://www.linkedin.com/in/a-wanderlingh/">View My LinkedIn Profile</a> 
   
